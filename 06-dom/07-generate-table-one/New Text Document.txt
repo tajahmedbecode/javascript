@@ -1,0 +1,18 @@
+/*var table = "",
+    	row = 10,
+    	col = 1,
+    	i,
+    	j;
+
+    	for(i = 0; i < row; i++) {
+
+    		table += "<tr>";
+
+    			for( j = 1 ; j <= col ; j++ ) {
+    				table += "<td>" + i + "</td>";
+    			}
+    			table += "</tr>";
+    	}
+    	table += "<table> " + table + "</table>";
+    document.getElementById("target").appendChild(table);
+    //document.write("<table> " + table + "</table>");*/
