@@ -1,0 +1,18 @@
+#target {
+	margin-left: 1px;
+  }
+
+
+}
+
+.clrchng {
+    /*width: 100px;
+    height: 100px;*/
+    
+    animation-name: example;
+    animation-duration: 8s;
+}
+
+@keyframes example {
+    from {margin-left: 0;}
+    to {margin-left: 1000;}
